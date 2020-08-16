@@ -12,7 +12,8 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>ASP.Net Application For Webhook</title>
+    <title>ASP.Net Application For Slack Webhook</title>
+    <title>ASP.Net Application For Discord Webhook</title>
     <!-- CSS Section -->
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
