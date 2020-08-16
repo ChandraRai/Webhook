@@ -1,0 +1,39 @@
+﻿/*
+      Assignment#01 
+      Designed by: Chandra K. Rai 
+      Student ID No: 300890510 
+      Submitted to: Seyed Mohammad Reza Dibaj 
+      Filename: customApp.css
+*/
+
+#logoTwo {
+    padding: 0 0 0 90px;
+}
+#logoThree {
+    float:right;
+    color:#3176B2;
+}
+#btnAlign {
+    padding: 30px 0 0 0;
+}
+#copyright {
+    color:#C1CD25;
+}
+#allPage {
+    width: 950px;
+    margin-left:auto;
+    margin-right:auto;
+    border:1px solid #cecece;   
+}
+.error{
+    color:red;
+}
+label:after { content:"*"; color:red; font-size:20px;}
+.margin-top {
+    margin-top:10px;
+}
+.margin-right {
+    margin-right: 10px;
+}
+
+
